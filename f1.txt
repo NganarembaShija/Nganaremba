@@ -1,2 +1,3 @@
 Here is some text
 Some changes
+new Change from remote repository
